@@ -1,0 +1,38 @@
+[
+Current Date: Wt 2018.12.11 at 09:36:58 PM CET
+Internet service provider (ISP): TOYA
+Server City: Lodz
+Server: FORWEB
+Link to test number 1: http://www.speedtest.net/result/7872341196
+Download for test number 1: 153.92 7872341196
+Upload for test number 1: 24.23 7872341196
+Ping for test number 1: 13 13
+Average download after test number 1: 153.92 7872341196
+Average upload after test number 1: 24.23 7872341196
+Average ping after test number 1: 13 13
+
+, 
+Current Date: Wt 2018.12.11 at 09:37:59 PM CET
+Internet service provider (ISP): TOYA
+Server City: Lodz
+Server: STK TV-SAT 364
+Link to test number 2: http://www.speedtest.net/result/7872343430
+Download for test number 2: 149.59 7872343430
+Upload for test number 2: 25.0 7872343430
+Ping for test number 2: 11 11
+Average download after test number 2: 151.755 7872343430
+Average upload after test number 2: 24.615 7872343430
+Average ping after test number 2: 12 11
+
+]
+Maximum download result: 153.92
+Minimum download result: 149.59
+Maximum upload result: 25.0
+Minimum upload result: 24.23
+Maximum ping result: 13.0
+Minimum ping result: 11.0
+
+Average download result: 151.755
+Average upload result: 24.615
+Average ping result: 12
+Statement: Success! Test completed! Number of tests: 2.
