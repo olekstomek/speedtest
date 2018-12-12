@@ -1,38 +1,51 @@
 [
-Current Date: Wt 2018.12.11 at 09:36:58 PM CET
-Internet service provider (ISP): TOYA
-Server City: Lodz
-Server: FORWEB
-Link to test number 1: http://www.speedtest.net/result/7872341196
-Download for test number 1: 153.92 7872341196
-Upload for test number 1: 24.23 7872341196
-Ping for test number 1: 13 13
-Average download after test number 1: 153.92 7872341196
-Average upload after test number 1: 24.23 7872341196
-Average ping after test number 1: 13 13
-
-, 
-Current Date: Wt 2018.12.11 at 09:37:59 PM CET
+Current Date: Śr 2018.12.12 at 10:00:12 PM CET
 Internet service provider (ISP): TOYA
 Server City: Lodz
 Server: STK TV-SAT 364
-Link to test number 2: http://www.speedtest.net/result/7872343430
-Download for test number 2: 149.59 7872343430
-Upload for test number 2: 25.0 7872343430
-Ping for test number 2: 11 11
-Average download after test number 2: 151.755 7872343430
-Average upload after test number 2: 24.615 7872343430
-Average ping after test number 2: 12 11
+Link to test number 1: http://www.speedtest.net/result/7875322084
+Download for test number 1: 163.55 7875322084
+Upload for test number 1: 23.76 7875322084
+Ping for test number 1: 11 11
+Average download after test number 1: 163.55 7875322084
+Average upload after test number 1: 23.76 7875322084
+Average ping after test number 1: 11 11
+
+, 
+Current Date: Śr 2018.12.12 at 10:01:08 PM CET
+Internet service provider (ISP): TOYA
+Server City: Lodz
+Server: STK TV-SAT 364
+Link to test number 2: http://www.speedtest.net/result/7875324333
+Download for test number 2: 151.91 7875324333
+Upload for test number 2: 25.25 7875324333
+Ping for test number 2: 12 12
+Average download after test number 2: 157.73001 7875324333
+Average upload after test number 2: 24.505001 7875324333
+Average ping after test number 2: 11 12
+
+, 
+Current Date: Śr 2018.12.12 at 10:02:07 PM CET
+Internet service provider (ISP): TOYA
+Server City: Lodz
+Server: FORWEB
+Link to test number 3: http://www.speedtest.net/result/7875326571
+Download for test number 3: 150.27 7875326571
+Upload for test number 3: 25.21 7875326571
+Ping for test number 3: 11 11
+Average download after test number 3: 155.24335 7875326571
+Average upload after test number 3: 24.74 7875326571
+Average ping after test number 3: 11 11
 
 ]
-Maximum download result: 153.92
-Minimum download result: 149.59
-Maximum upload result: 25.0
-Minimum upload result: 24.23
-Maximum ping result: 13.0
+Maximum download result: 163.55
+Minimum download result: 150.27
+Maximum upload result: 25.25
+Minimum upload result: 23.76
+Maximum ping result: 12.0
 Minimum ping result: 11.0
 
-Average download result: 151.755
-Average upload result: 24.615
-Average ping result: 12
-Statement: Success! Test completed! Number of tests: 2.
+Average download result: 155.24335
+Average upload result: 24.74
+Average ping result: 11
+Statement: Success! Test completed! Number of tests: 3.
