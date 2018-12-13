@@ -5,3 +5,13 @@ Date and Time;Download speed;Upload speed;Server city;Server;Internet service pr
 Wed Dec 12 22:00:12 CET 2018;163.55;23.76;11;Lodz;STK TV-SAT 364;TOYA
 Wed Dec 12 22:01:08 CET 2018;151.91;25.25;12;Lodz;STK TV-SAT 364;TOYA
 Wed Dec 12 22:02:07 CET 2018;150.27;25.21;11;Lodz;FORWEB;TOYA
+Date and Time;Download speed;Upload speed;Server city ;Server: ;Internet service provider (ISP)
+Thu Dec 13 23:48:01 CET 2018;148.01;19.62;16;Lodz;FORWEB;TOYA
+Date and Time;Download speed;Upload speed;Server city ;Server: ;Internet service provider (ISP) 
+Fri Dec 14 00:01:32 CET 2018;152.77;18.54;242;Kielce;Netcity;TOYA
+Fri Dec 14 00:02:45 CET 2018;152.93;25.32;15;Lodz;FORWEB;TOYA
+Fri Dec 14 00:03:59 CET 2018;154.03;25.26;13;Piotrków Trybunalski;PUH Vatus;TOYA
+Fri Dec 14 00:05:13 CET 2018;154.66;25.27;24;Jedrzejow;Proneteus Sp z o.o.;TOYA
+Fri Dec 14 00:06:30 CET 2018;152.88;25.23;20;Lodz;FORWEB;TOYA
+Fri Dec 14 00:07:36 CET 2018;154.55;25.36;21;Lodz;LNET;TOYA
+Fri Dec 14 00:08:38 CET 2018;153.15;25.2;22;Kielce;Netcity;TOYA

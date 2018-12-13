@@ -1,51 +1,154 @@
 [
-Current Date: Śr 2018.12.12 at 10:00:12 PM CET
-Internet service provider (ISP): TOYA
-Server City: Lodz
-Server: STK TV-SAT 364
-Link to test number 1: http://www.speedtest.net/result/7875322084
-Download for test number 1: 163.55 7875322084
-Upload for test number 1: 23.76 7875322084
-Ping for test number 1: 11 11
-Average download after test number 1: 163.55 7875322084
-Average upload after test number 1: 23.76 7875322084
-Average ping after test number 1: 11 11
+Current Date: Pt 2018.12.14 at 12:01:32 AM CET
+Internet service provider (ISP) 
+TOYA
+Server city Kielce
+Server: Netcity
+Link to test number 1: http://www.speedtest.net/result/7878376347
+Download for test number 1: 152.77 Mbps
+Upload for test number 1: 18.54 Mbps
+Ping for test number 1: 242 ms
+
+
+Average download result: 
+1: 152.77 Mbps
+Average upload result: 
+1: 18.54 Mbps
+Average ping result: 
+1: 242 ms
 
 , 
-Current Date: Śr 2018.12.12 at 10:01:08 PM CET
-Internet service provider (ISP): TOYA
-Server City: Lodz
-Server: STK TV-SAT 364
-Link to test number 2: http://www.speedtest.net/result/7875324333
-Download for test number 2: 151.91 7875324333
-Upload for test number 2: 25.25 7875324333
-Ping for test number 2: 12 12
-Average download after test number 2: 157.73001 7875324333
-Average upload after test number 2: 24.505001 7875324333
-Average ping after test number 2: 11 12
-
-, 
-Current Date: Śr 2018.12.12 at 10:02:07 PM CET
-Internet service provider (ISP): TOYA
-Server City: Lodz
+Current Date: Pt 2018.12.14 at 12:02:45 AM CET
+Internet service provider (ISP) 
+TOYA
+Server city Lodz
 Server: FORWEB
-Link to test number 3: http://www.speedtest.net/result/7875326571
-Download for test number 3: 150.27 7875326571
-Upload for test number 3: 25.21 7875326571
-Ping for test number 3: 11 11
-Average download after test number 3: 155.24335 7875326571
-Average upload after test number 3: 24.74 7875326571
-Average ping after test number 3: 11 11
+Link to test number 2: http://www.speedtest.net/result/7878377861
+Download for test number 2: 152.93 Mbps
+Upload for test number 2: 25.32 Mbps
+Ping for test number 2: 15 ms
+
+
+Average download result: 
+2: 152.85 Mbps
+Average upload result: 
+2: 21.93 Mbps
+Average ping result: 
+2: 128 ms
+
+, 
+Current Date: Pt 2018.12.14 at 12:03:59 AM CET
+Internet service provider (ISP) 
+TOYA
+Server city Piotrków Trybunalski
+Server: PUH Vatus
+Link to test number 3: http://www.speedtest.net/result/7878379824
+Download for test number 3: 154.03 Mbps
+Upload for test number 3: 25.26 Mbps
+Ping for test number 3: 13 ms
+
+
+Average download result: 
+3: 153.24333 Mbps
+Average upload result: 
+3: 23.04 Mbps
+Average ping result: 
+3: 90 ms
+
+, 
+Current Date: Pt 2018.12.14 at 12:05:13 AM CET
+Internet service provider (ISP) 
+TOYA
+Server city Jedrzejow
+Server: Proneteus Sp z o.o.
+Link to test number 4: http://www.speedtest.net/result/7878381932
+Download for test number 4: 154.66 Mbps
+Upload for test number 4: 25.27 Mbps
+Ping for test number 4: 24 ms
+
+
+Average download result: 
+4: 153.5975 Mbps
+Average upload result: 
+4: 23.5975 Mbps
+Average ping result: 
+4: 73 ms
+
+, 
+Current Date: Pt 2018.12.14 at 12:06:30 AM CET
+Internet service provider (ISP) 
+TOYA
+Server city Lodz
+Server: FORWEB
+Link to test number 5: http://www.speedtest.net/result/7878383766
+Download for test number 5: 152.88 Mbps
+Upload for test number 5: 25.23 Mbps
+Ping for test number 5: 20 ms
+
+
+Average download result: 
+5: 153.45401 Mbps
+Average upload result: 
+5: 23.924 Mbps
+Average ping result: 
+5: 62 ms
+
+, 
+Current Date: Pt 2018.12.14 at 12:07:36 AM CET
+Internet service provider (ISP) 
+TOYA
+Server city Lodz
+Server: LNET
+Link to test number 6: http://www.speedtest.net/result/7878385372
+Download for test number 6: 154.55 Mbps
+Upload for test number 6: 25.36 Mbps
+Ping for test number 6: 21 ms
+
+
+Average download result: 
+6: 153.63667 Mbps
+Average upload result: 
+6: 24.163332 Mbps
+Average ping result: 
+6: 55 ms
+
+, 
+Current Date: Pt 2018.12.14 at 12:08:38 AM CET
+Internet service provider (ISP) 
+TOYA
+Server city Kielce
+Server: Netcity
+Link to test number 7: http://www.speedtest.net/result/7878386956
+Download for test number 7: 153.15 Mbps
+Upload for test number 7: 25.2 Mbps
+Ping for test number 7: 22 ms
+
+
+Average download result: 
+7: 153.56714 Mbps
+Average upload result: 
+7: 24.311428 Mbps
+Average ping result: 
+7: 51 ms
 
 ]
-Maximum download result: 163.55
-Minimum download result: 150.27
-Maximum upload result: 25.25
-Minimum upload result: 23.76
-Maximum ping result: 12.0
-Minimum ping result: 11.0
+Maximum download result: 
+154.66
+Minimum download result: 
+152.77
+Maximum upload result: 
+25.36
+Minimum upload result: 
+18.54
+Maximum ping result: 
+242.0
+Minimum ping result: 
+13.0
 
-Average download result: 155.24335
-Average upload result: 24.74
-Average ping result: 11
-Statement: Success! Test completed! Number of tests: 3.
+Average download result: 
+153.56714
+Average upload result: 
+24.311428
+Average ping result: 
+51
+Statement: Success! Test completed! Number of tests: 7.
