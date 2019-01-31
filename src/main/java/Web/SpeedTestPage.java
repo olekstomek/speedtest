@@ -1,6 +1,7 @@
 package Web;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -38,8 +39,8 @@ public class SpeedTestPage {
      * # String path - path to the screenshots
      * # String formatPicture - extension for screenshots
      */
-    private final byte NUMBER_OF_TESTS = 2;
-    public final int HOW_MANY_TESTS_TO_SERVERS_SEARCHES = 2;
+    private final byte NUMBER_OF_TESTS = 1;
+    public final int HOW_MANY_TESTS_TO_SERVERS_SEARCHES = 1;
     private final int MAXIMUM_WAITING_TIME_IN_SECONDS_FOR_THE_TEST = 30;
     static final int MINIMUM_WAITING_TIME_IN_SECONDS_FOR_THE_TEST = 12;
     private final String RESULTS_FILE_TEXT = "results_speedtest.txt";
@@ -160,7 +161,7 @@ public class SpeedTestPage {
         if (TAKE_SCREENSHOT) {
             File srcFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
             try {
-                FileUtils.copyFile(srcFile, new File(path + getCounterTest() + "_test_" + formatPicture));
+                FileUtils.copyFile(srcFile, new File(path + generateRandomValues() + "_test_" + formatPicture));
                 System.out.println("Screenshot made successfully. \n");
             } catch (IOException e) {
                 System.err.println("Can not save screenshot. \n");
@@ -416,5 +417,9 @@ public class SpeedTestPage {
 
     public void waitForResults() {
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("div.result-item:nth-child(2)")));
+    }
+
+    private String generateRandomValues() {
+        return getCounterTest() + "__" + RandomStringUtils.random(9, true, true);
     }
 }
