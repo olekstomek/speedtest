@@ -15,3 +15,6 @@ Fri Dec 14 00:05:13 CET 2018;154.66;25.27;24;Jedrzejow;Proneteus Sp z o.o.;TOYA
 Fri Dec 14 00:06:30 CET 2018;152.88;25.23;20;Lodz;FORWEB;TOYA
 Fri Dec 14 00:07:36 CET 2018;154.55;25.36;21;Lodz;LNET;TOYA
 Fri Dec 14 00:08:38 CET 2018;153.15;25.2;22;Kielce;Netcity;TOYA
+Date and Time;Download speed;Upload speed;Server city ;Server: ;Internet service provider (ISP) 
+Thu Jan 31 22:43:26 CET 2019;152.38;25.34;7;Lodz;Virtual Line Sp. z o.o.;TOYA
+Thu Jan 31 22:44:39 CET 2019;152.5;25.05;9;Lodz;Virtual Line Sp. z o.o.;TOYA
